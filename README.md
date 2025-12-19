@@ -153,7 +153,7 @@ Lightning Time can be used in various scenarios:
 2. **Remote Teams**: Track and compensate remote employee work hours
 3. **Mining Operations**: Pay mining rig operators based on operational hours
 4. **Content Creation**: Compensate content moderators or creators based on time
-5. **Micro-consulting**: Enable pay-by-the-minute consulting sessions
+5. **Micro-consulting**: Enable pay-by-the-minute consulting sessions.
 
 ## Future Enhancements
 
